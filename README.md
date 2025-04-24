@@ -13,7 +13,7 @@ IMAGIC adalah aplikasi web berbasis Laravel yang memungkinkan pengguna mengonver
 - 📁 Upload dan download gambar dengan mudah
 - 🎨 Antarmuka pengguna yang retro dan intuitif
 - 🔒 Autentikasi pengguna (Login & Register)
-- 📊 Panel admin untuk pengelolaan file
+- 📊 Panel admin untuk mengelola akun pengguna
 
 ---
 
